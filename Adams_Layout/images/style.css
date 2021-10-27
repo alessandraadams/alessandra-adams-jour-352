@@ -1,0 +1,28 @@
+#content{
+	margin: 0 auto;
+	width: 900px;
+	font-family: Georgia,serif;
+	padding-left: 10px;
+	padding-right: 10PX	;
+	font-size: 14px;
+
+}
+#header-background{
+	font-family: helvetica, sans-serif;
+	font-size: 50px;
+	text-align: center;
+background-color: #caface;
+
+}
+#byline{
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+}
+#headline{
+	font-family: helvetica, sans-serif;}
+	#photo2 {
+		padding-right: 50px;
+		padding-left: 50px;
+
+	}
